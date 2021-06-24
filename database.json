@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "https://atsmait.com/wp-content/uploads/2018/05/christin-hume-588780-unsplash.jpg",
+    "title": "Bicycle",
+    "description": "Selling bicycle as new",
+    "location": "Ramat Gan"
+  },
+  {
+    "id": 2,
+    "img": "https://images.unsplash.com/photo-1624520262270-dda87e60b541?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "title": "Renting",
+    "description": "This is the view you see..",
+    "location": "Tel Aviv"
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1624514134741-a3035dfcabb3?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0MHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "title": "Recipes",
+    "description": "A new recipe book",
+    "location": "Tel Aviv"
+  },
+  {
+    "id": 4,
+    "img": "https://images.unsplash.com/photo-1624334827042-a2ed143be22f?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1MXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "title": "Clearance sale",
+    "location": "Ramat Gan",
+    "description": "New chairs on display"
+  },
+  {
+    "id": 5,
+    "img": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "title": "Restaurant",
+    "description": "New desserts",
+    "location": "Tel Aviv"
+  },
+  {
+    "id": 6,
+    "img": "https://images.unsplash.com/photo-1624059729855-4296e3f5c640?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxM3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "title": "New paintings",
+    "description": "For orders: 035199999",
+    "location": "Tel Aviv"
+  },
+  {
+    "id": 7,
+    "img": "https://images.unsplash.com/photo-1624516533295-b42486484d59?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "title": "Electric Bicycle",
+    "description": "For renting: 0502224444",
+    "location": "Tel aviv"
+  },
+  {
+    "id": 8,
+    "img": "https://images.unsplash.com/photo-1624311822063-c547b23cc542?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1Mnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "title": "A trip",
+    "description": "Save sunday...",
+    "location": "Tel Aviv"
+  }
+]
